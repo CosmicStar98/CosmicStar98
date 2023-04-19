@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/58494315/227568450-afe63c7a-385d-46e2-
 <hr>
 
 ## Upcoming projects
-- BonziWORLD: Enhanced `(Summer 2023)` | **<sub>Temporarily postponed.</sub>**
+- **<sub>Nothing.</sub>**
 
 <hr>
 
