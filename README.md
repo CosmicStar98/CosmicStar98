@@ -14,7 +14,7 @@ https://user-images.githubusercontent.com/58494315/227568450-afe63c7a-385d-46e2-
 <hr>
 
 ## Upcoming projects
-- **<sub>Nothing.</sub>**
+- **<sub>bonzi.world reverse engineered client and back-end (including full-stack RESTful API) Summer 2023 / Spring 2024</sub>**
 
 <hr>
 
