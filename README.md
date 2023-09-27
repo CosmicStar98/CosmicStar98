@@ -10,6 +10,9 @@
 ## Upcoming projects
 - **<h5>Nothing.</h5>**
 
+## Indev projects
+- **<h5>GMTower: Revived</h5>**
+
 <hr>
 
 ### Links
